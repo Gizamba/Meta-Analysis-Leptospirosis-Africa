@@ -6,7 +6,7 @@ Repository of the data and R code for a systematic review and meta analysis i di
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10546638/
 
 # Dataset
-This fold houses the raw and cleaned data extracted from the included studies. 
+This folder houses the raw and cleaned data extracted from the included studies. 
 The data was used to conducted in the meta analysis
 
 # Meta Analysis
