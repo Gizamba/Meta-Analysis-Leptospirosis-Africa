@@ -10,4 +10,4 @@ This folder houses the raw and cleaned data extracted from the included studies.
 The data was used to conducted in the meta analysis
 
 # Meta Analysis
-The meta analysis was conducted in R. The code for the analysis can found in the Rmarkdown notebook named: Meta_Analysis LeptospirosisAfrica.nb.html. The notebook and downloadable and the code can be copied and reused. 
+The meta analysis was conducted in R. The code for the analysis can found in the Rmarkdown notebook named: Meta_Analysis LeptospirosisAfrica.nb.html. The notebook is downloadable and the code can be copied and reused. 
